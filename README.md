@@ -2,10 +2,8 @@ LingoLink is a real-time language exchange platform that connects users worldwid
 It enables seamless communication with advanced features while maintaining privacy and security.
 
 Features:
-1.Real-time Messaging
-
-
-  -Typing indicators
+1.Real-time Messaging \n
+  -Typing indicators \n
   -Emoji reactions
   -Media sharing (images, videos)
 2.Video Conferencing
