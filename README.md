@@ -3,6 +3,8 @@ It enables seamless communication with advanced features while maintaining priva
 
 Features:
 1.Real-time Messaging
+
+
   -Typing indicators
   -Emoji reactions
   -Media sharing (images, videos)
